@@ -167,23 +167,9 @@ We position the $79/year plan against the cost of a single professional photo sh
 
 ---
 
-## 24-Month Execution Roadmap
 
-### Phase 1: The Core Loop (Months 1-4)
-*   **Milestone:** MVP Launch & Edge Tracking Validation.
-*   **Focus:** WebRTC + MediaPipe integration. Optimization for a single primary use case (The LinkedIn Headshot). Setup of foundational Cloud infrastructure.
 
-### Phase 2: The Intelligence Engine (Months 5-9)
-*   **Milestone:** Personalization Engine Deployment.
-*   **Focus:** Rolling out the vector database to build stateful user history. Integration of the GenAI prompt engine for deep natural language coaching. Launching the "Profile Picture Grader" SEO loop.
 
-### Phase 3: Monetization & Expansion (Months 10-16)
-*   **Milestone:** Growth Acceleration & ARR Scaling.
-*   **Focus:** Scaling the Aura Pro subscription and launching referral mechanics ("Gift a perfect headshot"). Expanding pose libraries through high-profile creator partnerships.
-
-### Phase 4: Platform Scale (Months 17-24)
-*   **Milestone:** Enterprise & B2B Utility.
-*   **Focus:** Launching Aura Studio for professionals. Opening API access for dating apps, real estate platforms, or networking sites to integrate AuraCam grading algorithms natively into their user flows.
 
 ---
 
